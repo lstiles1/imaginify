@@ -1,7 +1,8 @@
 ## Introduction
-Available live at https://photocraft.vercel.app/
+https://imaginify-photo.vercel.app/
 
-An AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure via Stripe, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
+## Project Overview
+Developed an AI image SaaS platform that excels in advanced image processing capabilities. The platform integrates secure payment infrastructure via Stripe, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
 
 ## Tech Stack
 • Next.js
@@ -22,34 +23,18 @@ An AI image SaaS platform that excels in image processing capabilities, integrat
 
 
 ## Features
-👉 Authentication and Authorization: Secure user access with registration, login, and route protection.
+• Full-Stack Development: Utilized Next.js and TypeScript for developing a robust and scalable application, ensuring seamless performance and user experience.
 
-👉 Community Image Showcase: Explore user transformations with easy navigation using pagination
+• AI Integration: Implemented advanced AI features such as image restoration, recoloring, object removal, generative filling, and background removal to enhance image processing capabilities.
 
-👉 Advanced Image Search: Find images by content or objects present inside the image quickly and accurately
+• Secure Payment System: Integrated Stripe for secure and efficient payment processing, enabling users to purchase credits for image transformations.
 
-👉 Image Restoration: Revive old or damaged images effortlessly
+• User Authentication: Used Clerk for secure user authentication and authorization, ensuring protected access and user data management.
 
-👉 Image Recoloring: Customize images by replacing objects with desired colors easily
+• Image Management: Leveraged Cloudinary for efficient image storage and management, supporting advanced image search functionalities and transformations.
 
-👉 Image Generative Fill: Fill in missing areas of images seamlessly
+• User Interface Design: Created a responsive and user-friendly interface with Shadcn UI and TailwindCSS, providing a seamless experience across various devices.
 
-👉 Object Removal: Clean up images by removing unwanted objects with precision
+• Community Features: Developed a community image showcase with pagination, allowing users to explore and share their transformed images.
 
-👉 Background Removal: Extract objects from backgrounds with ease
-
-👉 Download Transformed Images: Save and share AI-transformed images conveniently
-
-👉 Transformed Image Details: View details of transformations for each image
-
-👉 Transformation Management: Control over deletion and updates of transformations
-
-👉 Credits System: Earn or purchase credits for image transformations
-
-👉 Profile Page: Access transformed images and credit information personally
-
-👉 Credits Purchase: Securely buy credits via Stripe for uninterrupted use
-
-👉 Responsive UI/UX: A seamless experience across devices with a user-friendly interface
-
-and many more, including code architecture and reusability
+• Credit System: Implemented a credits system for image transformations, allowing users to earn or purchase credits securely via Stripe.
