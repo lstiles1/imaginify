@@ -1,25 +1,18 @@
-## Introduction
+## Imaginify
 https://imaginify-photo.vercel.app/
 
 ## Project Overview
 Developed an AI image SaaS platform that excels in advanced image processing capabilities. The platform integrates secure payment infrastructure via Stripe, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
 
 ## Tech Stack
-• Next.js
+• Front-End and Back-End: Next.js, TypeScript, Shadcn UI, TailwindCSS
 
-• TypeScript
+• Database: MongoDB
 
-• MongoDB
+• Image Management: Cloudinary
 
-• Clerk
+• Payment Processing: Stripe
 
-• Cloudinary
-
-• Stripe
-
-• Shadcn
-
-• TailwindCSS
 
 
 ## Features
